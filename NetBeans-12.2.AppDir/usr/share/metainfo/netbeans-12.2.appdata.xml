@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+    <id>org.apache.netbeans-12.2</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>Apache-2.0</project_license>
+    <name>Netbeans 12.2</name>
+    <summary>Apache NetBeans, The Smarter Way to Code</summary>
+    <description>
+        <p>Apache NetBeans IDE lets you quickly and easily develop Java desktop, Java EE, and web applications, as well as HTML5 applications with HTML, JavaScript, and CSS. The IDE also provides a great set of tools for PHP and C/C++ developers. It is free and open source and has a large community of users and developers around the world.</p>
+        <p>Disclaimer: This is a convenience binary of Apache NetBeans IDE, this is not an official release.</p>
+    </description>
+    <launchable type="desktop-id">netbeans-12.2.desktop</launchable>
+    <url type="homepage">https://netbeans.apache.org/</url>
+    <screenshots>
+        <screenshot type="default">
+            <image>https://raw.githubusercontent.com/trixon/netbeans-appimage/main/images/12.2-1.png</image>
+            <caption>Start page: Learn and discover</caption>
+        </screenshot>
+        <screenshot>
+            <image>https://raw.githubusercontent.com/trixon/netbeans-appimage/main/images/12.2-2.png</image>
+            <caption>Start page: My NetBeans</caption>
+        </screenshot>
+    </screenshots>
+    <provides>
+        <id>netbeans-12.2.desktop</id>
+    </provides>
+    <content_rating type="oars-1.1" />
+</component>
